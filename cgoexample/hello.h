@@ -1,1 +1,1 @@
-void hello();
+void hello(char* s);
